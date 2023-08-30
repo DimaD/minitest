@@ -3,7 +3,7 @@
 * 2 minor enhancements:
 
   * Add metadata lazy accessor to Runnable / Result. (matteeyah)
-  * Only load minitest/unit (aka ancient MiniTest compatibility layer) if ENV["MT_COMPAT"]
+  * Only load minitest/unit (aka ancient MiniTest compatibility layer) if `ENV["MT_COMPAT"]` is set
 
 * 1 bug fix:
 
